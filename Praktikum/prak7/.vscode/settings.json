@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "prioqueue.h": "c",
+        "stdlib.h": "c"
+    }
+}
